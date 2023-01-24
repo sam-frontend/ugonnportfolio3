@@ -97,7 +97,7 @@ export default function PersistentDrawerLeft() {
                     });
                   }}
                 >
-                  Sam_Ugonna <span className={`${classes.period}`}>.</span>
+                  Sam <span className={`${classes.period}`}>.</span>
                 </Typography>
                 <IconButton
                   aria-label="dark mode"

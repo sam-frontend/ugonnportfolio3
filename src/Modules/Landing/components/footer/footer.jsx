@@ -17,7 +17,7 @@ export default function () {
     >
       <Grid container item xs={12} justify="space-between">
         <Typography className={classes.mibase} variant="h5">
-          Powered by Mibase, LLC
+          Developed by Sam_Ugonna
         </Typography>
       </Grid>
     </Grid>

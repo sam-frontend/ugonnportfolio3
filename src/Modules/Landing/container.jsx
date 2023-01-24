@@ -97,7 +97,7 @@ export default function PersistentDrawerLeft() {
                     });
                   }}
                 >
-                  Baker <span className={`${classes.period}`}>.</span>
+                  Sam_Ugonna <span className={`${classes.period}`}>.</span>
                 </Typography>
                 <IconButton
                   aria-label="dark mode"

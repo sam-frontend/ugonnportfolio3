@@ -6,9 +6,13 @@ export const aboutContent = {
       skill: "React",
       status: 94,
     },
+     {
+      skill: "React-native",
+      status: 94,
+    },
     {
       skill: "Nodejs",
-      status: 92,
+      status: 25,
     },
     {
       skill: "problem solving,team work",

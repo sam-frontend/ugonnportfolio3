@@ -3,8 +3,7 @@ export const serviceContent = {
     {
       title: "Web design & Dev",
       descriptions: [
-        "Are you a student in college, high school/middle school, at a bootcamp, or a self-taught coder and need extra learning support?",
-        "With me as your coding tutor, you will gain the skills to complete all assignments on time, learn tips and tricks, and understand the material well enough to complete future assignments alone!",
+        "My stacks are HTML5 CSS JavaScript React React-native!",
       ],
       val: "Web Development",
       buttonLink: "/#",
@@ -17,7 +16,7 @@ export const serviceContent = {
       ],
       val: "designing",
       buttonLink: "/#",
-      buttonText: "Automate with nate",
+      buttonText: "Design with Sam",
     },
   ],
 };

@@ -10,8 +10,7 @@
 
     <meta
       name="description"
-      content="Sam Ugonna is a fulltime Coding Tutor for College, High School, Middle School, Coding BootCamps and Self Taught students. Get help with your coding today!"
-    />
+      content="Sam Ugonna is a full-time software engineer!/>
 
     <!-- Google / Search Engine Tags -->
     <meta itemprop="name" content="Sam Ugonna - software engineer" />
@@ -27,26 +26,26 @@
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="http://sam-fullstack.netlify.app" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Sam - Online Coding Tutor" />
+    <meta property="og:title" content="Sam - software engineer/>
     <meta
       property="og:description"
-      content="Sam Ugonna is a fulltime Coding Tutor for College, High School, Middle School, Coding BootCamps and Self Taught students. Get help with your coding today!"
+      content="Sam Ugonna is a fulltime software/product designer!"
     />
     <meta
       property="og:image"
-      content="https://res.cloudinary.com/mibase/image/upload/v1610044583//NATEBAKER-IMG_hlyc6f.png"
+      content="https://res.cloudinary.com/mibase/image/upload/v1610044583//NAT-IMG_hlyc6f.png"
     />
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Sam Ugonna - Online Coding Tutor" />
+    <meta name="twitter:title" content="Sam Ugonna - software product designer />
     <meta
       name="twitter:description"
-      content="Sam Ugonna is a fulltime Coding Tutor for College, High School, Middle School, Coding BootCamps and Self Taught students. Get help with your coding today!"
+      content="Sam Ugonna is a fulltime software engineeray!"/>
     />
     <meta
       name="twitter:image"
-      content="https://res.cloudinary.com/mibase/image/upload/v1610044583/NATEBAKER-IMG_hlyc6f.png"
+      content="https://res.cloudinary.com/mibase/image/upload/v1610044583IMG_hlyc6f.png"
     />
 
     <!-- Google site verification -->
@@ -88,14 +87,39 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>
-      Sam Ugonna - Online Coding Tutor. Nate tutors programming to students of
-      all ages.
+      Sam Ugonna - software product designer
     </title>
-  </head>
+    <style>
+       .loader:empty {
+          position: absolute;
+          top: calc(50% - 4em);
+          left: calc(50% - 4em);
+          width: 6em;
+          height: 6em;
+          border: 1.1em solid rgba(0, 0, 0, 0.2);
+          border-left: 1.1em solid #000000;
+          border-radius: 50%;
+          animation: load8 1.1s infinite linear;
+        }
+        @keyframes load8 {
+          0% {
+           transform: rotate(0deg);
+          }
+          100% {
+           transform: rotate(360deg);
+          }
+        }
+     </style>
+     <script>
+       function onLoad() {
+         var loader = document.getElementById("cpay_loader");loader.className = "";}
+     </script>
+   </head>
 
-  <body>
+  <body onload="onload ();">
     <noscript> You need to enable JavaScript to run this app. </noscript>
     <div id="root"></div>
+    more html here.....
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.

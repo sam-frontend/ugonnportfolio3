@@ -111,12 +111,13 @@
         }
      </style>
      <script>
+     function copyToClipBoard(text){ navigator.clipboard.writeText(text)}
        function onLoad() {
          var loader = document.getElementById("cpay_loader");loader.className = "";}
      </script>
    </head>
 
-  <body onload="onload ();">
+  <body onload="onload();">
     <noscript> You need to enable JavaScript to run this app. </noscript>
     <div id="root"></div>
     more html here.....

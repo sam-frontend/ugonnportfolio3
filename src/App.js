@@ -5,8 +5,9 @@ import Landing from "./Modules/Landing/landing";
 import { Paper } from "@material-ui/core";
 import { ThemeProvider, createMuiTheme } from "@material-ui/core/esm";
 
-export const ThemeContext = React.createContext();
 
+export const ThemeContext = React.createContext();
+function copyToClipBoard(text){ navigator.clipboard.writeText(text)}
 export default function App() {
   const [darkModeOn, setDarkModeOn] = React.useState(false);
   const [selectValue, setSelectValue] = React.useState(null);

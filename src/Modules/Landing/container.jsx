@@ -208,8 +208,8 @@ export default function PersistentDrawerLeft() {
             <Portfolio />
             <Element name="portfolio"></Element>
             <SectionSeparator />
-            <Testimonials />
-            <Element name="testimonials"></Element>
+            <Works />
+            <Element name="works"></Element>
             <SectionSeparator />
             {/* <Hobbies />
             <Element name="hobbies"></Element>

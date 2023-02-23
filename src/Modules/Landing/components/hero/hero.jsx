@@ -44,7 +44,7 @@ export default function () {
           <Grid className={`${classes.heroSpacing}`} item xs={12}>
             <TextLoop >
               <h2 className={`${classes.occupation}`}>Frontend Engineer</h2>
-              <h2 className={`${classes.occupation}`}>Software Engineer</h2>
+              <h2 className={`${classes.occupation}`}>Backend Engineer(entry level)</h2>
               <h2 className={`${classes.occupation}`}>Product Designer</h2>
               <h2 className={`${classes.occupation}`}>Content Creator</h2>
             </TextLoop>

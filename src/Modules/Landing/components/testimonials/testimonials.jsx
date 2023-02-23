@@ -18,7 +18,7 @@ export default function () {
       lg={11}
       id="testimonials"
     >
-      <SectionHeader title="Testimonials" description="Tried & True" />
+      <SectionHeader title="Works" description="Tried & True" />
       <Grid container justify="center">
         <Carrousel />
       </Grid>

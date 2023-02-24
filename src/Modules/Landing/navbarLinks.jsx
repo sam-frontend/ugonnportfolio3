@@ -30,13 +30,13 @@ export const links = [
     icon: <BuildIcon fontSize="large" />,
   },
   {
-    name: "Portfolio",
-    id: "portfolio",
+    name: "Skills",
+    id: "skills",
     icon: <DashboardIcon fontSize="large" />,
   },
   {
-    name: "Testimonials",
-    id: "testimonials",
+    name: "Works",
+    id: "works",
     icon: <FeaturedPlayListIcon fontSize="large" />,
   },
   // {

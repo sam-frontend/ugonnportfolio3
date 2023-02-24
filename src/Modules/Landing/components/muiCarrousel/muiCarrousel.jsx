@@ -52,24 +52,33 @@ const AutoPlaySwipeableViews = autoPlay(SwipeableViews);
 
 const tutorialSteps = [
   {
-    name: "Alexus McGriff",
-    occupationTitle: "Business Analyst - Citigroup",
+    name: "Flight Booking App",
+    occupationTitle: "Web",
     body:
-      "Nate teaches in a way that the student can understand. He made Web Development clearer to me in a few weeks than university did in an entire semester. Not only does Nate guide and teach his students, he learns new things with them if he doesn’t know. Would definitely recommend partnering with him on web projects.",
+      "
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel nibh a lorem auctor volutpat. Sed at massa vestibulum purus hendrerit porta vel et nibh.
+    Nam vitae metus nec urna varius fermentum. Morbi ullamcorper blandit ante,
+    et pretium odio consequat sed. Cras placerat, dolor in vestibulum molestie,",
     avi: Alexus,
   },
   {
-    name: "Thomas Hoang",
-    occupationTitle: "Software Engineer - JPMorgan Chase & Co.",
+    name: "Calenda App",
+    occupationTitle: "Web",
     body:
-      "I've had the honor of working with Nate to complete social media applications, search engines, and an virtual education platform. He shows tremendous ability being a leader during architecture designs of applications and shows proficient ability with full stack development on all of his products",
+      "
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel nibh a lorem auctor volutpat. Sed at massa vestibulum purus hendrerit porta vel et nibh. 
+    Nam vitae metus nec urna varius fermentum. Morbi ullamcorper blandit ante, et pretium odio consequat sed.
+    Cras placerat, dolor in vestibulum molestie,",
     avi: Thomas,
   },
   {
-    name: "Olivia Starnes",
-    occupationTitle: "High School Junior - Nashville, TN",
+    name: "Restaurant App",
+    occupationTitle: "Web",
     body:
-      "As a former student of one of Nate Baker’s classes, I can easily say that I’ve never understood coding more clear! He makes it easy to follow along and enjoy.",
+      "
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel nibh a lorem auctor volutpat. 
+    Sed at massa vestibulum purus hendrerit porta vel et nibh. Nam vitae metus nec urna varius fermentum. 
+    Morbi ullamcorper blandit ante, et pretium odio consequat sed. Cras placerat, dolor in vestibulum molestie,",
     avi: Olivia,
   },
 ];

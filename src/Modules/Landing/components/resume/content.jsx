@@ -8,10 +8,10 @@ import SchoolIcon from "@material-ui/icons/School";
 export const resumeContent = {
   edEntries: [
     {
-      dateRange: "2015 - 2019",
+      dateRange: "2022",
       title: "Lagos State Poly",
       descriptions: [
-        "Graduated with a Computer Science degree from the School of Language, Science, and the Arts (LSA)",
+        "In view:Computer Science degree from the School of Language, Science",
         " The focus of my degree is on computer systems such as computer networks, distributed systems, servers, and operating systems",
       ],
       icon: <SchoolIcon fontSize="large" />,
@@ -28,26 +28,17 @@ export const resumeContent = {
   ],
   exEntries: [
     {
-      dateRange: "2020 - 2019",
+      dateRange: "2020 - 2023",
       title: "Software Engineer",
       descriptions: [
-        "Created the new quicklock and virtual account number front end webpages for online.citi.com using Angular",
+        "Created the new quicklock and virtual account number front end webpages  using Ract",
         "Learned the essence of development operations at large scale companies",
       ],
       icon: <DevicesIcon fontSize="large" />,
     },
     {
-      dateRange: "2019 - 2017",
-      title: "Instructional Assistant (IA)",
-      descriptions: [
-        "Led lab sections for Intro to Computer Security (U of M) once a week covering the topics discussed during the lecture",
-        "Guided students through our network security project with another IA, which taught students how to hack into a network",
-      ],
-      icon: <CreateIcon fontSize="large" />,
-    },
-    {
-      dateRange: "2018 - 2017",
-      title: "Web Developer - Umich School of Pharm",
+      dateRange: "2020- 2021",
+      title: "Frontend/UI/UX - RIVASULT",
       descriptions: [
         "Expanded the existing membrane protein databases and created a new web interface where scientists can submit data for real-time processing using software developed by scientists from the College of Pharmacy",
       ],

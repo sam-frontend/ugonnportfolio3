@@ -8,7 +8,7 @@ export const aboutContent = {
     },
      {
       skill: "React-native",
-      status: 94,
+      status: 70,
     },
     {
       skill: "Nodejs",
@@ -20,7 +20,7 @@ export const aboutContent = {
     },
     {
       skill: "Product design",
-      status: 90,
+      status: 60,
     },
   ],
 };

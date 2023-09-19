@@ -7,7 +7,6 @@ export const serviceContent = {
       ],
       val: "Web Development",
       buttonLink: "/#",
-      buttonText: "Book a Tutoring Session",
     },
     {
       title: "Product design",

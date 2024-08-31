@@ -66,7 +66,7 @@ export default function MediaControlCard({ service, icon }) {
                 service.title === "Automation"
                   ? () => setShowCard(true)
                   : () => {
-                      const url = "https://www.wyzant.com/Tutors/Nate2427";
+                      const url = "/";
                       const link = document.createElement("a");
                       link.href = url;
                       link.target = "_blank";
@@ -95,7 +95,7 @@ function FormDialog({ isOpen, setOpen }) {
 
     const service_id = "gmail";
     const template_id = "automation_contact";
-    const user_id = "user_4Sd3PL1XIEE0y4imZuIR3";
+    const user_id = "/";
     emailjs
       .send(service_id, template_id, template_params, user_id)
       .then(() => {

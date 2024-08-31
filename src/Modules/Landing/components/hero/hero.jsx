@@ -80,7 +80,7 @@ export default function () {
             color="primary"
             onClick={() => {
               const url =
-                "https://drive.google.com/file/d/1-/view?usp=sharing";
+                "/";
               const link = document.createElement("a");
               link.href = url;
               link.setAttribute("download", "Sam_Ugonna_Resume.pdf");

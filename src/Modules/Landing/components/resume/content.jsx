@@ -8,8 +8,7 @@ import SchoolIcon from "@material-ui/icons/School";
 export const resumeContent = {
   edEntries: [
     {
-      dateRange: "2022",
-      title: "Lagos State Poly",
+      title: "Yaatech",
       descriptions: [
         "In view:Computer Science degree from the School of Language, Science",
         " The focus of my degree is on computer systems such as computer networks, distributed systems, servers, and operating systems",
@@ -17,8 +16,8 @@ export const resumeContent = {
       icon: <SchoolIcon fontSize="large" />,
     },
     {
-      dateRange: "2020 - 2021",
-      title: "Rivasault",
+      
+      title: "Fronted/UI/UX Intern",
       descriptions: [
         "Completed over 100+ hours of trainings, tutorials, and projects",
         "Gained a well rounded understanding of the services I offer via freelance",
@@ -28,8 +27,17 @@ export const resumeContent = {
   ],
   exEntries: [
     {
-      dateRange: "2020 - 2023",
-      title: "Software Engineer",
+    
+      title: "Field Engineer-ITEX",
+      descriptions: [
+        "Created the new quicklock and virtual account number front end webpages  using Ract",
+        "Learned the essence of development operations at large scale companies",
+      ],
+      icon: <DevicesIcon fontSize="large" />,
+    },
+      {
+    
+      title: "Frontend/QA-Waya Pay",
       descriptions: [
         "Created the new quicklock and virtual account number front end webpages  using Ract",
         "Learned the essence of development operations at large scale companies",
@@ -37,8 +45,7 @@ export const resumeContent = {
       icon: <DevicesIcon fontSize="large" />,
     },
     {
-      dateRange: "2020- 2021",
-      title: "Frontend/UI/UX - RIVASULT",
+      title: "FSE - Uziben",
       descriptions: [
         "Expanded the existing membrane protein databases and created a new web interface where scientists can submit data for real-time processing using software developed by scientists from the College of Pharmacy",
       ],

@@ -23,7 +23,7 @@ export default function () {
     },
     {
       icon: <RecordVoiceOverIcon className={`${classes.icon}`} />,
-      title: "Motivational Speaking",
+      title: "Reading",
     },
     {
       icon: <FastfoodIcon className={`${classes.icon}`} />,

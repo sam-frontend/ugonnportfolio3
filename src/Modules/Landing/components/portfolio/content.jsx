@@ -1,26 +1,28 @@
 export const portfolioContent = {
   links: [
     {
-      url: "https://umsep-annualreport.com/",
-      alt: "University of Michigan School of Public Health - Nate Baker.me",
-      showURL: "UMSEP Annual Report",
-      publicId: "personal/sam-fullstack.netlify.app/umsep_img_ijqmh4",
+     url: "https://sam-creative-agency.netlify.app",
+      alt: "Sam Ugonna creative site",
+      showURL: "Practice Site",
+      publicId: "personal/sam-fullstack.netlify.app/",
     },
     {
-      url: "https://www.kqhsllc.com/",
-      alt: "Kaptin's Quality Home Solutions - Nate Baker.me",
-      showURL: "Kaptain's Quality Home Solutions",
-      publicId: "personal/sam-fullstack.netlify/kqhs_img_lazdfk",
+    url: "https://sam-cardeals.netlify.app/",
+      alt: "Sam Ugonna car dea Site",
+      showURL: "Practice Site",
+      publicId: "personal/sam-fullstack.netlify.app/",
     },
     {
-      url: "/",
-  
+      url: "https://behance.net/samsonugonna",
+      alt: "Sam Ugonna product design portfolio",
+      showURL: "Practice Site",
+      publicId: "personal/sam-fullstack.netlify.app/",
     },
     {
       url: "https://sam-fullstack.netlify.app/",
-      alt: "Sam Ugonna personal Site - Practice - Nate Baker.me",
+      alt: "Sam Ugonna personal Site",
       showURL: "Practice Site",
-      publicId: "personal/sam-fullstack.netlify.app/practicesite_img_f9vtte",
+      publicId: "personal/sam-fullstack.netlify.app/",
     },
   ],
 };
